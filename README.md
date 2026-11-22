@@ -10,9 +10,9 @@
 
 ## Overview
 
-Trained machine learning models remain inert without robust API serving infrastructure and user-accessible interfaces.
+Trained machine learning models remain inert without reliable API serving infrastructure and user-accessible interfaces.
 
-This project provides an end-to-end, reproducible implementation engineered to solve this challenge through verified data transformations, robust algorithms, and production-ready architecture.
+This project provides an end-to-end, reproducible implementation engineered to solve this challenge through verified data transformations, reliable algorithms, and production-ready architecture.
 
 ---
 
