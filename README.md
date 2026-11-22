@@ -55,7 +55,7 @@ Implements a reactive user interface (`notebooks/FULL_STACK_AI_APPLICATION_DEVEL
 Builds standard WSGI endpoints handling JSON request parsing, input matrix formatting, error handling, and structured JSON prediction outputs.
 
 ### Step 4: FastAPI Asynchronous High-Concurrency Serving
-Engineers an ASGI service using FastAPI and Pydantic schemas. Enforces strict type validation on inbound request attributes, documents endpoints via OpenAPI / Swagger, and leverages Python async event loops for superior throughput under concurrent load.
+Engineers an ASGI service using FastAPI and Pydantic schemas. Enforces strict type validation on inbound request attributes, documents endpoints via OpenAPI / Swagger, and utilizes Python async event loops for superior throughput under concurrent load.
 
 ### Step 5: Comparative Performance Auditing
 Profiles execution latency, memory footprint, and concurrent request handling across all three frameworks under synthetic load tests.
